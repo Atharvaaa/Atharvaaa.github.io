@@ -1,2 +1,2 @@
 # PersonalSite
-<a href="Project1.html">Click HEre to view the site</a>
+<a href="Project1.html">Click here to view my site</a>
